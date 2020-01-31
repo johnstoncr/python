@@ -1,0 +1,4 @@
+language = "python3"
+run = "echo hello word"
+print "3 + 4"
+
